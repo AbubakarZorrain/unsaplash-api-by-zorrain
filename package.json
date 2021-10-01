@@ -1,0 +1,26 @@
+{
+  "name": "unsplashapi",
+  "version": "1.0.0",
+  "description": "unsplash api by Abubakar Zorrain",
+  "main": "search.js",
+  "scripts": {
+    "start": "node search.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbubakarZorrain/unsaplash-api-by-zorrain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbubakarZorrain/unsaplash-api-by-zorrain/issues"
+  },
+  "homepage": "https://github.com/AbubakarZorrain/unsaplash-api-by-zorrain#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
